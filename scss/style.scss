@@ -1,0 +1,11 @@
+$Sans : "OpenSans", sans-serif;
+
+body{
+    font-family: $Sans;
+    font-size: 16px;
+    margin: 0;
+}
+@font-face {
+    font-family: "OpenSans";
+    src: url(../fonts/OpenSans-Light.ttf);
+}
